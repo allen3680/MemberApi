@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Gotcha1\Gotcha1\bin\Debug\netcoreapp2.1\Gotcha1.deps.json
+C:\Users\admin\source\repos\Gotcha1\Gotcha1\bin\Debug\netcoreapp2.1\Gotcha1.runtimeconfig.json
+C:\Users\admin\source\repos\Gotcha1\Gotcha1\bin\Debug\netcoreapp2.1\Gotcha1.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Gotcha1\Gotcha1\bin\Debug\netcoreapp2.1\Gotcha1.dll
+C:\Users\admin\source\repos\Gotcha1\Gotcha1\bin\Debug\netcoreapp2.1\Gotcha1.pdb
+C:\Users\admin\source\repos\Gotcha1\Gotcha1\obj\Debug\netcoreapp2.1\Gotcha1.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Gotcha1\Gotcha1\obj\Debug\netcoreapp2.1\Gotcha1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Gotcha1\Gotcha1\obj\Debug\netcoreapp2.1\Gotcha1.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\Gotcha1\Gotcha1\obj\Debug\netcoreapp2.1\Gotcha1.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\Gotcha1\Gotcha1\obj\Debug\netcoreapp2.1\Gotcha1.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Gotcha1\Gotcha1\obj\Debug\netcoreapp2.1\Gotcha1.AssemblyInfo.cs
+C:\Users\admin\source\repos\Gotcha1\Gotcha1\obj\Debug\netcoreapp2.1\Gotcha1.RazorTargetAssemblyInfo.cache
+C:\Users\admin\source\repos\Gotcha1\Gotcha1\obj\Debug\netcoreapp2.1\Gotcha1.dll
+C:\Users\admin\source\repos\Gotcha1\Gotcha1\obj\Debug\netcoreapp2.1\Gotcha1.pdb
+C:\Users\admin\source\repos\Gotcha1\Gotcha1\bin\Debug\netcoreapp2.1\Gotcha1.xml
